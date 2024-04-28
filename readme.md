@@ -1,6 +1,6 @@
 <p align="center">
     <img src=".doc/iTop.png"/>
-    <h2 align="center">Rosé Pine Moon theme for iTop</h2>
+    <h2 align="center">Rosé Pine Dawn theme for iTop</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -19,9 +19,9 @@
 
 ## Gallery
 
-![Rosé Pine Moon with iTop](.doc/dashboard.png)
+![Rosé Pine Dawn with iTop](.doc/dashboard.png)
 
-![Rosé Pine Moon with App](.doc/details.png)
+![Rosé Pine Dawn with App](.doc/details.png)
 
 
 ## Contributing
