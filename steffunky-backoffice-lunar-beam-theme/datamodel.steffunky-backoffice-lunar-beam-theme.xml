@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itop_design xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.1">
+  <branding>
+    <themes>
+      <theme id="lunar-beam" _delta="define">
+        <variables>
+        </variables>
+        <imports>
+          <import id="rose-pine-scss-variables" xsi:type="variables">steffunky-backoffice-lunar-beam-theme/scss/rose-pine-variables.scss</import>
+          <import id="lunar-beam-scss-variables" xsi:type="variables">steffunky-backoffice-lunar-beam-theme/scss/scss-variables.scss</import>
+        </imports>
+        <stylesheets>
+          <stylesheet id="fullmoon">../css/backoffice/main.scss</stylesheet>
+          <stylesheet id="ace_editor">steffunky-backoffice-lunar-beam-theme/scss/ace_editor.scss</stylesheet>
+        </stylesheets>
+        <precompiled_stylesheet>steffunky-backoffice-lunar-beam-theme/precompiled-themes/main.css</precompiled_stylesheet>
+      </theme>
+    </themes>
+  </branding>
+</itop_design>
