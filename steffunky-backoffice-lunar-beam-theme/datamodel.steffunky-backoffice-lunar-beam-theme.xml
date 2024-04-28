@@ -7,6 +7,7 @@
         </variables>
         <imports>
           <import id="rose-pine-scss-variables" xsi:type="variables">steffunky-backoffice-lunar-beam-theme/scss/rose-pine-variables.scss</import>
+          <import id="light-base" xsi:type="variables">steffunky-backoffice-light-theme-base/scss/base.scss</import>
           <import id="lunar-beam-scss-variables" xsi:type="variables">steffunky-backoffice-lunar-beam-theme/scss/scss-variables.scss</import>
         </imports>
         <stylesheets>
