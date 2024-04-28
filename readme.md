@@ -26,4 +26,4 @@
 
 ## Contributing
 
-Modify any scss file using iTop variables, then run a setup or a toolkin:
+Modify any scss file using iTop variables, then run a setup or a toolkit
